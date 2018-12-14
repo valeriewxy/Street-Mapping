@@ -11,18 +11,12 @@ Point.java (helper class for enabling graph scaling)
 pin.png (the pin icon on the map)
 
 Synopsis:
-Using the given data, we constructed the graph ADT with an adjacency list. Besides drawing the graph based on the adj list, we implemented the dijkstra's algorithm to
-find the shortest path between two arbitrary intersections with a priority queue.
+Using the given data, I have constructed the graph ADT with an adjacency list. Besides drawing the graph based on the adj list, I implemented the dijkstra's algorithm to find the shortest path between two arbitrary intersections with a priority queue.
 
 Runtime Analysis:
 *E=edge V=vertex or node
 Shortest path: O(|E| ln(|V|))
 Plotting map: |V|^2
-
-Extra Credit:
-Please consider the dedicated design of the output for extra credits. We figured out a suitable and simplistic design to make the map as beautiful as it can with 
-its colors design, while keeping the graph functional and legible. For example, we added an icon of pin as an element of the path drawn in order to show destination and 
-source location clearer for better user experience.
 
 Method Signatures:
 class Canvas
