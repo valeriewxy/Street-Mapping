@@ -11,7 +11,9 @@ Point.java (helper class for enabling graph scaling)
 pin.png (the pin icon on the map)
 
 Synopsis:
-Using the given data, I have constructed the graph ADT with an adjacency list. Besides drawing the graph based on the adj list, I implemented the dijkstra's algorithm to find the shortest path between two arbitrary intersections with a priority queue.
+Using the given data, I have constructed the graph ADT with an adjacency list. Besides drawing the graph based on the adj
+list, I implemented the dijkstra's algorithm to find the shortest path between two arbitrary intersections with a priority
+queue.
 
 Runtime Analysis:
 *E=edge V=vertex or node
