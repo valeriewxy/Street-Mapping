@@ -1,7 +1,4 @@
-CSC172 Project 4
-Lab Session: Tue., Thur., 12:30-1:45 PM
-
-Name: Xuanyang Wang
+Xuanyang Wang
 
 Files:
 Canvas.java
